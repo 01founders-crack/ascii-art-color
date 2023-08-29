@@ -56,7 +56,7 @@ Highlight "world" within "Hello, world!" in blue:
 go run main.go --color=Blue world "Hello, world!"
 ```
 
-![Examples](https://github.com/01founders-crack/ascii-art-color/example-running-code-1.png)
+![Examples](example-running-code-1.png)
 
 Running Tests:
 
