@@ -56,6 +56,8 @@ Highlight "world" within "Hello, world!" in blue:
 go run main.go --color=Blue world "Hello, world!"
 ```
 
+![Examples](https://github.com/01founders-crack/ascii-art-color/example-running-code-1.png)
+
 Running Tests:
 
 Tests for the program are provided in the main_test.go file. To run the tests, execute the following command in your terminal:
